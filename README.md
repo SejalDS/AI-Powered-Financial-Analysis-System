@@ -18,3 +18,9 @@ Model: Retrieval-Augmented Generation (RAG) with GPT-4
 
 Cloud Platform: Azure
 
+
+## Data Description 
+
+Wealth Assets Data: Details of client portfolios, including asset classes such as stocks, bonds, real estate, and alternative investments.
+
+Financial Records: Transaction histories, and investment portfolios for a complete financial overview.
