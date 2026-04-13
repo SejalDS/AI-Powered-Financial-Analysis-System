@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 CORS(app)
 
-os.environ["OPENAI_API_KEY"]="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"
+os.environ["OPENAI_API_KEY"]="Removed for secuirity purpose"
 
 @app.route("/")
 def home():
