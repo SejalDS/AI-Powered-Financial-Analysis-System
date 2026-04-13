@@ -1,4 +1,4 @@
-# AI-Powered Wealth Analysis System
+# AI-Powered Financial Analysis System
 
 (Microsoft Fabric, LangChain, Python)
 
